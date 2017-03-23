@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">VerizonChallenge</string>
+    <string name="error">No videos or images found on device</string>
+</resources>
