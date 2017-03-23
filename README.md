@@ -3,7 +3,8 @@
 Interview problem / coding challenge for Android Developer at Verizon Wireless.
 All the app does is display pictures and thumbnails of videos on your phone. It is sorted
 by descending date. I think this is the fastest solution to the problem because of the
-efficiency of Glide.
+efficiency of Glide. The problem was not hard, but making it perform well on scroll
+was the toughest part.
 
 What my design looks like is below.
 
